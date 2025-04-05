@@ -1,0 +1,209 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{
+{\b\qc\line Descriptive Statistics }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx4600\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx7400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8800
+\ql { {Variable}}\cell
+\qr { {Obs}}\cell
+\qr { {Mean}}\cell
+\qr { {Std. Dev.}}\cell
+\qr { {Min}}\cell
+\qr { {Max}}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx2400\cellx3200\cellx4600\cellx6000\cellx7400\cellx8800
+\ql { {ccps}}\cell
+\qr {{57}}\cell
+\qr {{.352}}\cell
+\qr {{.154}}\cell
+\qr {{.081}}\cell
+\qr {{.824}}\cell
+\row
+\ql { {W RTI normalized}}\cell
+\qr {{55}}\cell
+\qr {{.375}}\cell
+\qr {{.235}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {rel and science up~7}}\cell
+\qr {{57}}\cell
+\qr {{.498}}\cell
+\qr {{.291}}\cell
+\qr {{.015}}\cell
+\qr {{.95}}\cell
+\row
+\ql { {dogood both uptow7}}\cell
+\qr {{57}}\cell
+\qr {{.673}}\cell
+\qr {{.172}}\cell
+\qr {{.159}}\cell
+\qr {{.936}}\cell
+\row
+\ql { {Thisworld both upt~7}}\cell
+\qr {{57}}\cell
+\qr {{.668}}\cell
+\qr {{.188}}\cell
+\qr {{.084}}\cell
+\qr {{.907}}\cell
+\row
+\ql { {many relig uptow7}}\cell
+\qr {{57}}\cell
+\qr {{.521}}\cell
+\qr {{.275}}\cell
+\qr {{.021}}\cell
+\qr {{.939}}\cell
+\row
+\ql { {log GDP}}\cell
+\qr {{57}}\cell
+\qr {{9.489}}\cell
+\qr {{.954}}\cell
+\qr {{7.126}}\cell
+\qr {{11.733}}\cell
+\row
+\ql { {globaliz}}\cell
+\qr {{57}}\cell
+\qr {{67.749}}\cell
+\qr {{11.724}}\cell
+\qr {{41.82}}\cell
+\qr {{89.748}}\cell
+\row
+\ql { {coalp cap}}\cell
+\qr {{57}}\cell
+\qr {{.001}}\cell
+\qr {{.003}}\cell
+\qr {{0}}\cell
+\qr {{.02}}\cell
+\row
+\ql { {dmcry}}\cell
+\qr {{57}}\cell
+\qr {{4.225}}\cell
+\qr {{6.095}}\cell
+\qr {{-10}}\cell
+\qr {{10}}\cell
+\row
+\ql { {inst}}\cell
+\qr {{57}}\cell
+\qr {{-.16}}\cell
+\qr {{.934}}\cell
+\qr {{-1.818}}\cell
+\qr {{1.692}}\cell
+\row
+\ql { {cc percp}}\cell
+\qr {{57}}\cell
+\qr {{.499}}\cell
+\qr {{.174}}\cell
+\qr {{.18}}\cell
+\qr {{.8}}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx8800{}\cell
+\row}
+
+
+{
+{\b\qc\line Descriptive Statistics }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx4600\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx7400\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8800
+\ql { {Variable}}\cell
+\qr { {Obs}}\cell
+\qr { {Mean}}\cell
+\qr { {Std. Dev.}}\cell
+\qr { {Min}}\cell
+\qr { {Max}}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx2400\cellx3200\cellx4600\cellx6000\cellx7400\cellx8800
+\ql { {ccps}}\cell
+\qr {{57}}\cell
+\qr {{.352}}\cell
+\qr {{.154}}\cell
+\qr {{.081}}\cell
+\qr {{.824}}\cell
+\row
+\ql { {W RTI normalized}}\cell
+\qr {{55}}\cell
+\qr {{.375}}\cell
+\qr {{.235}}\cell
+\qr {{0}}\cell
+\qr {{1}}\cell
+\row
+\ql { {rel and science up~7}}\cell
+\qr {{57}}\cell
+\qr {{.498}}\cell
+\qr {{.291}}\cell
+\qr {{.015}}\cell
+\qr {{.95}}\cell
+\row
+\ql { {dogood both uptow7}}\cell
+\qr {{57}}\cell
+\qr {{.673}}\cell
+\qr {{.172}}\cell
+\qr {{.159}}\cell
+\qr {{.936}}\cell
+\row
+\ql { {Thisworld both upt~7}}\cell
+\qr {{57}}\cell
+\qr {{.668}}\cell
+\qr {{.188}}\cell
+\qr {{.084}}\cell
+\qr {{.907}}\cell
+\row
+\ql { {many relig uptow7}}\cell
+\qr {{57}}\cell
+\qr {{.521}}\cell
+\qr {{.275}}\cell
+\qr {{.021}}\cell
+\qr {{.939}}\cell
+\row
+\ql { {log GDP}}\cell
+\qr {{57}}\cell
+\qr {{9.489}}\cell
+\qr {{.954}}\cell
+\qr {{7.126}}\cell
+\qr {{11.733}}\cell
+\row
+\ql { {globaliz}}\cell
+\qr {{57}}\cell
+\qr {{67.749}}\cell
+\qr {{11.724}}\cell
+\qr {{41.82}}\cell
+\qr {{89.748}}\cell
+\row
+\ql { {coalp cap}}\cell
+\qr {{57}}\cell
+\qr {{.001}}\cell
+\qr {{.003}}\cell
+\qr {{0}}\cell
+\qr {{.02}}\cell
+\row
+\ql { {dmcry}}\cell
+\qr {{57}}\cell
+\qr {{4.225}}\cell
+\qr {{6.095}}\cell
+\qr {{-10}}\cell
+\qr {{10}}\cell
+\row
+\ql { {inst}}\cell
+\qr {{57}}\cell
+\qr {{-.16}}\cell
+\qr {{.934}}\cell
+\qr {{-1.818}}\cell
+\qr {{1.692}}\cell
+\row
+\ql { {cc percp}}\cell
+\qr {{57}}\cell
+\qr {{.499}}\cell
+\qr {{.174}}\cell
+\qr {{.18}}\cell
+\qr {{.8}}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx8800{}\cell
+\row}
+
+
+\writepositionforappend
+}}

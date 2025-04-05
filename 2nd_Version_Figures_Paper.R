@@ -24,7 +24,7 @@ library(RColorBrewer)
 library(factoextra)
 library(ggpubr)
 
-setwd("C:/Users/PC/Desktop/Economia_y_Religion/Version_2")
+setwd("C:/Users/Portatil/Desktop/Economia_y_Religion/Version_2")
 dataset = read_excel("STATA_Relig_Tolerance_Climate (Regiones).xlsx")
 dataset = dataset %>% filter(`_mi_m` ==  0)
 dataset$id = seq(1,nrow(dataset), by=1 )

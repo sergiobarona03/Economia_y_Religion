@@ -1,0 +1,12 @@
+
+Pendientes - RT index paper
+
+1. Los ejercicios con el PCA sugieren dos cosas: (1) el índice es unidimensional (PC1 = casi 80% de la varianza explicada); y (2) el índice como promedio simple es robusto porque el índice dado por PC1 proporciona idénticos resultados en las regresiones. [HECHO].
+
+2. Se debe pensar en ampliar la muestra. La muestra actual es limitada (n = 57). Se debería alcanzar, por lo menos, el tamaño de muestra de Sharma (n = 75 países). [PENDIENTE]
+
+3. Se debe abordar el problema de endogeneidad y variables relevantes omitidas (nivel de educación de los países, historicas, cuestiones técnicas) [PENDIENTE].
+
+3. Añadir al ejercicio de modelación: estimadores robustos de White, pruebas de multicolinealidad y normalidad en los errores [PENDIENTE].
+
+4. Leer el draft de nuevo.
